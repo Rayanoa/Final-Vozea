@@ -106,6 +106,7 @@
                         <h6 class="collapse-header">Other Pages:</h6>
                         <a class="collapse-item" href="404.html">404 Page</a>
                         <a class="collapse-item" href="blank.html">Blank Page</a>
+                        <a class="collapse-item" href="test.php">Test</a>
                     </div>
                 </div>
             </li>
