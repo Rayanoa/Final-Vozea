@@ -6,7 +6,7 @@
             .navbar-nav {
             background-color: #1d0237;
         }
-        .nav-link[aria-current="page"]{
+        .nav-link[aria-current = "page"]{
         background-color: purple;
         }    
          .navbar{
@@ -100,8 +100,8 @@
                     <div class="bg-white py-2 collapse-inner rounded">
                         <h6 class="collapse-header">Login Screens:</h6>
                         <a class="collapse-item" href="login.php">Login</a>
-                        <a class="collapse-item" href="addstudent.php">Ajouter un élève</a>
-                        <a class="collapse-item" href="createtp.php"> Ajouter un tp</a>
+                        <a class="collapse-item" href="createstudent.php">Ajouter un élève</a>
+                        <a class="collapse-item" href="forgot-password.html">Forgot Password</a>
                         <div class="collapse-divider"></div>
                         <h6 class="collapse-header">Other Pages:</h6>
                         <a class="collapse-item" href="404.html">404 Page</a>
@@ -120,9 +120,9 @@
 
             <!-- Nav Item - Tables -->
             <li class="nav-item">
-                <a class="nav-link" href="tables.php">
+                <a class="nav-link" href="promotion.php">
                     <i class="fas fa-fw fa-table"></i>
-                    <span>Tables</span></a>
+                    <span>Promotions </span></a>
             </li>
 
             <!-- Divider -->
