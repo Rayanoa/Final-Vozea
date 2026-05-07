@@ -1,4 +1,5 @@
 
+
 <nav id=navbar>
 
 <style rel="stylesheet">
@@ -99,7 +100,7 @@
                     <div class="bg-white py-2 collapse-inner rounded">
                         <h6 class="collapse-header">Login Screens:</h6>
                         <a class="collapse-item" href="login.php">Login</a>
-                        <a class="collapse-item" href="addstudent.php">Ajouter un élève</a>
+                        <a class="collapse-item" href="createstudent.php">Ajouter un élève</a>
                         <a class="collapse-item" href="forgot-password.html">Forgot Password</a>
                         <div class="collapse-divider"></div>
                         <h6 class="collapse-header">Other Pages:</h6>
