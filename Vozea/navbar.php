@@ -6,7 +6,7 @@
             .navbar-nav {
             background-color: #1d0237;
         }
-        .nav-link[aria-current="page"]{
+        .nav-link[aria-current = "page"]{
         background-color: purple;
         }    
          .navbar{
@@ -119,9 +119,9 @@
 
             <!-- Nav Item - Tables -->
             <li class="nav-item">
-                <a class="nav-link" href="tables.php">
+                <a class="nav-link" href="promotion.php">
                     <i class="fas fa-fw fa-table"></i>
-                    <span>Tables</span></a>
+                    <span>Promotions </span></a>
             </li>
 
             <!-- Divider -->
